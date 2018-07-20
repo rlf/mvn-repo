@@ -3,10 +3,10 @@
   <groupId>dk.lockfuglsang.minecraft</groupId>
   <artifactId>bukkit-utils</artifactId>
   <versioning>
-    <release>1.19</release>
+    <release>1.20-test</release>
     <versions>
-      <version>1.19</version>
+      <version>1.20-test</version>
     </versions>
-    <lastUpdated>20180715175041</lastUpdated>
+    <lastUpdated>20180720113223</lastUpdated>
   </versioning>
 </metadata>
