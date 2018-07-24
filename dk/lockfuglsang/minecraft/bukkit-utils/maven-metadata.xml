@@ -3,10 +3,9 @@
   <groupId>dk.lockfuglsang.minecraft</groupId>
   <artifactId>bukkit-utils</artifactId>
   <versioning>
-    <release>1.22-bukkit-1.12</release>
     <versions>
-      <version>1.22-bukkit-1.12</version>
+      <version>1.23-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20180724172052</lastUpdated>
+    <lastUpdated>20180724214734</lastUpdated>
   </versioning>
 </metadata>
